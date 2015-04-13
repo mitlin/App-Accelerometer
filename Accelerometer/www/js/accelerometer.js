@@ -31,10 +31,3 @@ function stopWatch(){
 	}
 	
 }
-
-function actionMove(){
-	if(acceleration.x=>4)
-	{
-		window.alert(Carefull);
-	}
-}
